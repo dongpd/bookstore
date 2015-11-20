@@ -24,10 +24,6 @@ import org.exoplatform.commons.api.persistence.ExoTransactional;
 import javax.inject.Inject;
 import java.util.List;
 
-/**
- * Created by The eXo Platform SAS Author : eXoPlatform exo@exoplatform.com Jun
- * 26, 2012
- */
 public class BookStoreServiceImpl implements BookStoreService {
 
   @Inject
